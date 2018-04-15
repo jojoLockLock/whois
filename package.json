@@ -1,6 +1,6 @@
 {
   "name": "@jojolocklock/whois-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "whois api,support emoji input",
   "main": "index.js",
   "repository": "https://github.com/jojoLockLock/whois.git",
