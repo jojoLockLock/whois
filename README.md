@@ -1,4 +1,6 @@
 # whois-js
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/jojoLockLock/whois.svg)](https://greenkeeper.io/)
 whois api ,support emoji input
 ## Install 
 
